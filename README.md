@@ -1,10 +1,11 @@
 # Custom RainbowKit Frontend
+#### _Take note, only README.md was AI generated_.
 
 A **Web3 authentication frontend** built with TanStack Start, React, and RainbowKit. This application connects to a custom SIWE (Sign-In With Ethereum) backend for secure wallet-based authentication.
 
 ## 🔗 Backend Repository
 
-This frontend connects to: [custom-rainbowkit-backend](https://github.com/aerilabs/custom-rainbowkit-backend.git)
+This frontend connects to: [Custom-RainbowKit-SIWE Backend](https://github.com/aerilabs/custom-rainbowkit-backend.git)
 
 ## 🏗️ Architecture Overview
 
