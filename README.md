@@ -87,8 +87,6 @@ pnpm dev  # Runs on localhost:5000
 
 ```bash
 # In this project directory
-
-```bash
 pnpm install
 pnpm dev
 ```
